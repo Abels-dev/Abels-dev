@@ -6,7 +6,7 @@
 
 ## 💡 About Me
 
-- 🎓 I'm a 3rd-year Computer Science student at **Addis Ababa University**
+- 🎓 I'm a 4th-year Computer Science student at **Addis Ababa University**
 - 🎨 Frontend developer passionate about crafting clean and intuitive user interfaces
 - 🔧 Currently learning backend development with **Node.js**, **Express**, and **MongoDB**
 - 💬 I enjoy collaborating, learning from others, and building real-world solutions
