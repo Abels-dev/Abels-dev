@@ -55,7 +55,7 @@ I'm always open to collaborating on exciting projects or just having a tech chat
   <a href="https://www.linkedin.com/in/abel-getachew-a53232366" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a><br/>
-  <a href="https://abels-dev-portfolio.vercel.app/" target="_blank">
+  <a href="https://abelsdev.me/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a><br/>
 </p>
